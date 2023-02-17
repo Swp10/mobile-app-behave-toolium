@@ -1,0 +1,8 @@
+toolium
+behave                          # behave tests
+pytest==7.1.2                   # unittests
+needle==0.5.0                   # visual testing
+nose==1.3.7                     # unittests
+ddt==1.5.0                      # data-driven tests
+Appium-Python-Client==2.3.0     #appium
+selenium==4.2.0                 #Selenium

@@ -1,0 +1,29 @@
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+.classpath
+.venv
+.idea/
+
+# Numerous always-ignore extensions
+*.pyc
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+
+# Folders to ignore
+Docs
+/*.html
+/reports
+tmp
+output
+resources
